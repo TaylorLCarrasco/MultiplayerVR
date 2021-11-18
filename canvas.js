@@ -5,4 +5,6 @@ window.addEventListener("load", () => {
   //Resizing
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth;
+  
+  ctx.fillRect(50, 50, 200, 200);
 });
