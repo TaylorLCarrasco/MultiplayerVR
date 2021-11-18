@@ -4,5 +4,5 @@ window.addEventListener("load", () => {
   
   //Resizing
   canvas.height = window.innerHeight;
-  canvas.width = window.innerwidth;
+  canvas.width = window.innerWidth;
 });
