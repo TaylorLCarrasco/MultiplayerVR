@@ -7,5 +7,5 @@ window.addEventListener("load", () => {
   canvas.width = window.innerWidth;
   
   ctx.strokeStyle = "red";
-  ctx.strokeRect(100, 100, 200, 500);
+  ctx.strokeRect(0, 0, canvas.width, canvas.height);
 });
