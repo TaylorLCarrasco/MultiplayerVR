@@ -7,5 +7,5 @@ window.addEventListener("load", () => {
   canvas.width = window.innerWidth;
   
   //ctx.fillStyle = "red";
-  //ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
 });
